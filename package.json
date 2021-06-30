@@ -9,7 +9,8 @@
   ],
   "dependencies": {
     "gitbook-plugin-ga": "^2.0.0",
-    "gitbook-plugin-mathjax": "git+https://github.com/algorithm-archivists/plugin-mathjax.git"
+    "gitbook-plugin-mathjax": "git+https://github.com/algorithm-archivists/plugin-mathjax.git",
+    "honkit": "^3.6.20"
   },
   "repository": {
     "type": "git",
